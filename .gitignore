@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.id0
+*.id1
+*.id2
+*.nam
+*.til
+*.i64
+oc.txt
+oc.txt
+testbin/golang/test_go_sym
